@@ -1,0 +1,4 @@
+fall, topwear, white, tshirt, casual
+summer, topwear, blue, shirt, casual
+winter, topwear, green, tshirt, casual
+spring, topwear, pink, tshirt, casual

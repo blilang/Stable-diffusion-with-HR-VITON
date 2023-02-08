@@ -1,0 +1,9 @@
+a jealous 21 pink t-shirt
+topwear, a jealous 21 pink t-shirt
+a little miss chatterbox navy blue dress
+dress, a little miss chatterbox navy blue dress
+jealous 21 black jeans
+bottomwear, jealous 21 black jeans
+girl, fall, topwear, blue, tshirt, casual
+woman, summer, bottomwear, black, shorts, casual
+girl, winter, dress, white, dresses, casual
